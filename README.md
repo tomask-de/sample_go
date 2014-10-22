@@ -1,3 +1,5 @@
+[![Build Status](https://api.shippable.com/projects/5447f15744927f89db3da01a/badge?branchName=master)](https://app.shippable.com/projects/5447f15744927f89db3da01a/builds/latest)
+
 Go Sample
 =====================
 
